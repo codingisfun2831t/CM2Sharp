@@ -4,6 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>CM2Sharp</Title>
+    <Authors>codingisfun2831t</Authors>
+    <Company />
+    <Description>C# library for saving/loading Circuit Maker 2 save files</Description>
+    <Copyright>Copyright (C) codingisfun2831t 2026</Copyright>
   </PropertyGroup>
 
 </Project>
