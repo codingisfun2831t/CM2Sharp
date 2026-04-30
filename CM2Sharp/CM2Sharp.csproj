@@ -9,6 +9,18 @@
     <Company />
     <Description>C# library for saving/loading Circuit Maker 2 save files</Description>
     <Copyright>Copyright (C) codingisfun2831t 2026</Copyright>
+    <PackageProjectUrl>https://github.com/codingisfun2831t/CM2Sharp</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/codingisfun2831t/CM2Sharp</RepositoryUrl>
+    <PackageTags>cm2;lib</PackageTags>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
